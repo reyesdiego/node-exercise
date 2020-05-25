@@ -1,0 +1,39 @@
+{
+  "name": "node-exercise",
+  "version": "1.0.0",
+  "description": "A little exercise using a Star Wars API [https://swapi.dev/](https://swapi.dev/)",
+  "main": "index.js",
+  "config": {
+    "ghooks": {
+      "pre-commit": "eslint ./src"
+    }
+  },
+  "scripts": {
+    "test": "jest --verbose",
+    "dev": "nodemon src/."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Growmies/node-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Growmies/node-exercise/issues"
+  },
+  "homepage": "https://github.com/Growmies/node-exercise#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "compression": "^1.7.4",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.22.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "ghooks": "^2.0.4",
+    "jest": "^26.0.1"
+  }
+}

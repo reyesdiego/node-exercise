@@ -1,0 +1,12 @@
+{
+    "count": 11,
+    "next": null,
+    "previous": "http://swapi.dev/api/people/?page=2",
+    "results": [
+        {
+            "name": "C-3PO",
+            "height": "167",
+            "mass": "75"
+        }
+    ]
+}

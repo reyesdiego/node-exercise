@@ -1,0 +1,57 @@
+{
+    "count": 11,
+    "next": "https://swapi.dev/api/people/?page=2",
+    "previous": null,
+    "results": [
+        {
+            "name": "3Luke Skywalker",
+            "height": "1",
+            "mass": "77"
+        },
+        {
+            "name": "2Luke Skywalker",
+            "height": "2",
+            "mass": "77"
+        },
+        {
+            "name": "1Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        },
+        {
+            "name": "4Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        },
+        {
+            "name": "5Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        },
+        {
+            "name": "Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        },
+        {
+            "name": "Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        },
+        {
+            "name": "Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        },
+        {
+            "name": "Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        },
+        {
+            "name": "Luke Skywalker",
+            "height": "172",
+            "mass": "77"
+        }
+    ]
+}

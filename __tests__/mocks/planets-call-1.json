@@ -1,0 +1,31 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "Tatooine",
+            "population": "200000",
+            "residents": [
+                "http://swapi.dev/api/people/1/",
+                "http://swapi.dev/api/people/2/"
+            ]
+        },
+        {
+            "name": "Tatooine",
+            "population": "200000",
+            "residents": [
+                "http://swapi.dev/api/people/1/",
+                "http://swapi.dev/api/people/2/"
+            ]
+        },
+        {
+            "name": "Tatooine",
+            "population": "200000",
+            "residents": [
+                "http://swapi.dev/api/people/1/",
+                "http://swapi.dev/api/people/5/"
+            ]
+        }
+    ]
+}

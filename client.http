@@ -1,0 +1,9 @@
+###
+GET http://localhost:3000/api-v1
+
+###
+GET http://localhost:3000/api-v1/people?sortBy=name
+
+###
+GET http://localhost:3000/api-v1/planets
+
